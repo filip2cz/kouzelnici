@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Alef-Group")]
 [assembly: AssemblyProduct("kouzelnici")]
-[assembly: AssemblyCopyright("Copyright © Alef-Group 2022")]
+[assembly: AssemblyCopyright("Copyright © Filip Komárek 2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
