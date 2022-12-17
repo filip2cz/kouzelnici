@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("kouzelnici")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Alef-Group")]
+[assembly: AssemblyCompany("Komárek")]
 [assembly: AssemblyProduct("kouzelnici")]
 [assembly: AssemblyCopyright("Copyright © Filip Komárek 2022")]
 [assembly: AssemblyTrademark("")]
