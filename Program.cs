@@ -85,7 +85,7 @@ namespace kouzelnici
                                                             {}
                                                             else if (kouzelnici[2].Jmeno == "Rimbleby" | kouzelnici[3].Jmeno == "Rimbleby" | kouzelnici[4].Jmeno == "Rimbleby" | kouzelnici[5].Jmeno == "Rimbleby")
                                                             {
-                                                                if (kouzelnici[6].Jmeno != "Septimus" | kouzelnici[7].Jmeno != "Septimus")
+                                                                if (kouzelnici[6].Jmeno != "Septimus" && kouzelnici[7].Jmeno != "Septimus")
                                                                 {
                                                                     computing = false;
                                                                 }
